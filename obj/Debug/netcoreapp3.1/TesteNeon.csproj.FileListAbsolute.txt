@@ -1,0 +1,13 @@
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.exe
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.deps.json
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.runtimeconfig.json
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.runtimeconfig.dev.json
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.dll
+C:\Users\willi\teste\TesteNeon\bin\Debug\netcoreapp3.1\TesteNeon.pdb
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.csprojAssemblyReference.cache
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.AssemblyInfoInputs.cache
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.AssemblyInfo.cs
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.csproj.CoreCompileInputs.cache
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.dll
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.pdb
+C:\Users\willi\teste\TesteNeon\obj\Debug\netcoreapp3.1\TesteNeon.genruntimeconfig.cache
