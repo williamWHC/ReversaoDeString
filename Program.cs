@@ -12,6 +12,7 @@ namespace TesteNeon
             Menu();
             // string txt = "arara";
             // Console.WriteLine(txt.Length);
+            //teste
         }
 
         static void Menu()
